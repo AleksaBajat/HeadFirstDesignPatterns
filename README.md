@@ -1,2 +1,2 @@
 # Head First Design Patterns
-Design Patterns in C#
+Going through the book and adding examples for said patterns.
