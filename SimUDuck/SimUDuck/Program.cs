@@ -1,4 +1,6 @@
 ﻿using System;
+using SimUDuck.Ducks;
+using SimUDuck.FlyBehaviors;
 
 namespace SimUDuck
 {
@@ -6,7 +8,15 @@ namespace SimUDuck
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Duck mallard = new MallardDuck();
+            mallard.PerformFly();
+            mallard.PerformQuack();
+
+            Duck model = new ModelDuck();
+            model.PerformFly();
+            model.PerformQuack();
+            model.SetFlyBehavior(new FlyRocketPowered());
+            model.PerformFly();
         }
     }
 }
