@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJN9LrFl9vhpkzykPFqte3J1JSqpy+U9gsTdilAI0HhpboRdYFu3twGrBGHBm0V5EYyKt9om8Fmb7+SkhBog9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\HFDP\\HeadFirstDesignPatterns\\WeatherORama\\WeatherORama\\WeatherORama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.5\\microsoft.netcore.app.host.win-x64.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
