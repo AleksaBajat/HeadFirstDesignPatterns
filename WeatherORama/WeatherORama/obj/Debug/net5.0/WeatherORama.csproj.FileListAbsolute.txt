@@ -1,0 +1,16 @@
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\WeatherORama.exe
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\WeatherORama.deps.json
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\WeatherORama.runtimeconfig.json
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\WeatherORama.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\WeatherORama.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\ref\WeatherORama.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\bin\Debug\net5.0\WeatherORama.pdb
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\ref\WeatherORama.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.pdb
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\WeatherORama\WeatherORama\obj\Debug\net5.0\WeatherORama.genruntimeconfig.cache
