@@ -1,0 +1,16 @@
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\StarbuzzCoffee.exe
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\StarbuzzCoffee.deps.json
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\StarbuzzCoffee.runtimeconfig.json
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\StarbuzzCoffee.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\StarbuzzCoffee.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\ref\StarbuzzCoffee.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\net5.0\StarbuzzCoffee.pdb
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\ref\StarbuzzCoffee.dll
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.pdb
+C:\Users\Korisnik\Desktop\HFDP\HeadFirstDesignPatterns\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\net5.0\StarbuzzCoffee.genruntimeconfig.cache
