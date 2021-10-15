@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d96ee97-cfd7-4d11-b979-0bba465f7c9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Abstractions/Beverage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Abstractions/CondimentDecorator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Beverages/DarkRoast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Beverages/Decaf.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Beverages/Espresso.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Beverages/HouseBlend.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Condiments/Milk.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Condiments/Mocha.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Condiments/Soy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/StarbuzzCoffee.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/Debug/net5.0/StarbuzzCoffee.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/Debug/net5.0/StarbuzzCoffee.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/Debug/net5.0/StarbuzzCoffee.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/Debug/net5.0/StarbuzzCoffee.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/Debug/net5.0/StarbuzzCoffee.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/StarbuzzCoffee.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/StarbuzzCoffee.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/StarbuzzCoffee.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StarbuzzCoffee/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StarbuzzCoffee/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1633990506770</updated>
-      <workItem from="1633990524311" duration="3928000" />
+      <workItem from="1633990524311" duration="5831000" />
     </task>
     <servers />
   </component>
