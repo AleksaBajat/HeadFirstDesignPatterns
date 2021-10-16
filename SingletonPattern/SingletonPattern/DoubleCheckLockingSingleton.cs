@@ -3,7 +3,8 @@ namespace SingletonPattern
     //TBD Not yet Finished!
     public class DoubleCheckLockingSingleton
     {
-        private static DoubleCheckLockingSingleton _uniqueInstance;
+        private static volatile DoubleCheckLockingSingleton _uniqueInstance;
+        private static readonly object BalanceLock = new object();
         
         private DoubleCheckLockingSingleton(){}
         
@@ -11,10 +12,19 @@ namespace SingletonPattern
         {
             if (_uniqueInstance == null)
             {
-                _uniqueInstance = new DoubleCheckLockingSingleton();
+                lock (BalanceLock)
+                {
+                    if (_uniqueInstance == null)
+                    {
+                        _uniqueInstance = new DoubleCheckLockingSingleton();
+                    }
+
+                    return _uniqueInstance;
+                }
             }
 
             return _uniqueInstance;
+
         }
     }
 }
