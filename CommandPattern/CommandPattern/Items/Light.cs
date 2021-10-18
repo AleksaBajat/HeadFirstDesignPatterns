@@ -4,28 +4,20 @@ namespace CommandPattern
 {
     public class Light
     {
-        public bool State { get; private set; } = false;
-
-        public Light()
+        private string _place;
+        public Light(string place)
         {
+            _place = place;
         }
 
         public void On()
         {
-            State = true;
+            Console.WriteLine("Light is on");
         }
 
         public void Off()
         {
-            State = false;
-        }
-
-        public void CheckState()
-        {
-            if(State)
-                Console.WriteLine("The light is on!");
-            else
-                Console.WriteLine("The light is off!");
+            Console.WriteLine("Light is off");
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using CommandPattern.GarageCommands;
 
 namespace CommandPattern
 {
@@ -6,16 +7,29 @@ namespace CommandPattern
     {
         static void Main(string[] args)
         {
-            SimpleRemoteControl remote = new SimpleRemoteControl();
+            RemoteControl remote = new RemoteControl();
 
-            Light light = new Light();
+            Light livingRoomLight = new Light("Living Room");
+            Light kitchenLight = new Light("Kitchen");
+            GarageDoor garageDoor = new GarageDoor("Garage");
 
-            LightOnCommand lightOn = new LightOnCommand(light);
+            LightOnCommand livingRoomLightOn = new LightOnCommand(livingRoomLight);
+            LightOffCommand livingRoomLightOff = new LightOffCommand(livingRoomLight);
+            LightOnCommand kitchenLightOn = new LightOnCommand(kitchenLight);
+            LightOffCommand kitchenLightOff = new LightOffCommand(kitchenLight);
+            OpenGarage openGarage = new OpenGarage(garageDoor);
+            CloseGarage closeGarage = new CloseGarage(garageDoor);
             
-            remote.SetCommand(lightOn);
-            light.CheckState();
-            remote.ButtonPressed();
-            light.CheckState();
+            remote.SetCommand(0,livingRoomLightOn,livingRoomLightOff);
+            remote.SetCommand(1,kitchenLightOn,kitchenLightOff);
+            remote.SetCommand(2,openGarage,closeGarage);
+            
+            remote.OnButtonWasPushed(0);
+            remote.OffButtonWasPushed(0);
+            remote.OnButtonWasPushed(1);
+            remote.OffButtonWasPushed(1);
+            remote.OnButtonWasPushed(2);
+            remote.OffButtonWasPushed(2);
         }
     }
 }
