@@ -9,6 +9,11 @@ namespace CommandPattern
             _light.On();
         }
 
+        public void Undo()
+        {
+            _light.Off();
+        }
+
         public LightOnCommand(Light light)
         {
             _light = light;

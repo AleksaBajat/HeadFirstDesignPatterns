@@ -6,5 +6,10 @@ namespace CommandPattern
         {
             
         }
+
+        public void Undo()
+        {
+            
+        }
     }
 }

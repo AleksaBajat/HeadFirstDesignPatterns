@@ -14,5 +14,12 @@ namespace CommandPattern.GarageCommands
             _door.Stop();
             _door.LightOn();
         }
+
+        public void Undo()
+        {
+            _door.Down();
+            _door.Stop();
+            _door.LightOff();
+        }
     }
 }
