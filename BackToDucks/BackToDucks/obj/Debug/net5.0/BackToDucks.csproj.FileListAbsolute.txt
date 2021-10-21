@@ -1,0 +1,16 @@
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\BackToDucks.exe
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\BackToDucks.deps.json
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\BackToDucks.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\BackToDucks.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\BackToDucks.dll
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\ref\BackToDucks.dll
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\bin\Debug\net5.0\BackToDucks.pdb
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.dll
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\ref\BackToDucks.dll
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.pdb
+C:\Users\Korisnik\Desktop\Aleksa\Project\HeadFirstDesignPatterns\BackToDucks\BackToDucks\obj\Debug\net5.0\BackToDucks.genruntimeconfig.cache
