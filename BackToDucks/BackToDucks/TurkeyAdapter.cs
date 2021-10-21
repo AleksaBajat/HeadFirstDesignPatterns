@@ -16,6 +16,7 @@ namespace BackToDucks
 
         public void Fly()
         {
+            //Needs 5x fly calls to recreate the duck fly for example.
             for (int i = 0; i < 5; i++)
             {
                 _turkey.Fly();    
